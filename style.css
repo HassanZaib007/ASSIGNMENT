@@ -1,0 +1,44 @@
+body{background-color: #222222;
+    color: white;
+}
+header{height: 60px;
+background-color: #343a34;
+text-align: center;}
+
+table td,
+table th {
+    border: 1px solid white;
+}
+
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 60%;
+margin: 10 auto 10 auto;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+background-color: #343a34;
+position: absolute;
+bottom: 0;
+width: 99%;
+
+}
+
+main {
+    text-align: center;
+}
+button{width: 82px;
+position: relative;
+top: 28;
+left: 345;
+
+}
+a{text-decoration: none;
+    color: black}
